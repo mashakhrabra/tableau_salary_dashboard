@@ -69,15 +69,6 @@ This file includes:
 
 ---
 
-## 🔗 Dashboard Link
-
-Add your Tableau Public link here:
-
-Add your Tableau Public link here:
-
-`[https://public.tableau.com/...](https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary2021_2023.png)`
-
----
 
 ## 🧠 Key Insights
 
