@@ -26,7 +26,7 @@ The data was cleaned and prepared in Excel before being imported into Tableau.
 
 All preprocessing steps are documented in the Excel file:
 
-**`Data Science Salary 2021 to 20231 - Co...xlsx`**
+**`Data Science Salary 2021 to 20231 - Copy.xlsx`**
 
 This file includes:
 - removal of duplicates  
