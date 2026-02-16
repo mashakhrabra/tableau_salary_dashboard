@@ -64,9 +64,9 @@ This file includes:
 
 ## 🖼 Dashboard Preview
 
-*(Insert your screenshot here)*  
+*(https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary%20Data%20Science%202021-2023.png)*  
 Example:  
-`![Dashboard Overview](Salary Data Science 2021-2023.png)`
+``
 
 ---
 
