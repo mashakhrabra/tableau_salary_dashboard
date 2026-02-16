@@ -64,7 +64,8 @@ This file includes:
 
 ## 🖼 Dashboard Preview
 
-*(https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary%20Data%20Science%202021-2023.png)*  
+*(<img width="1687" height="778" alt="Salary Data Science 2021-2023" src="https://github.com/user-attachments/assets/4da74fb9-951b-40a3-b489-d659b6575547" />
+)*  
 Example:  
 ``
 
