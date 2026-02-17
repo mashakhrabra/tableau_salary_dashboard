@@ -40,9 +40,9 @@ This file includes:
 
 ## 🛠 Tools & Technologies
 
-- **Tableau** — dashboard creation  
-- **Excel** — data cleaning and preparation  
-- **Pivot Tables** — exploratory analysis  
+- **Tableau** - dashboard creation  
+- **Excel** - data cleaning and preparation  
+- **Pivot Tables** - exploratory analysis  
 - **Data visualization techniques**  
 
 ---
